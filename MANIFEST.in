@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_striplight/templates *
+recursive-include octoprint_striplight/translations *
+recursive-include octoprint_striplight/static *
